@@ -1,0 +1,8 @@
+---
+description: Repositoriy alert-job-llm
+alwaysApply: true
+---
+
+# alert-job-llm
+
+Maven artifact `llm-alert-job`. LLM / Spring AI integration for order decisions.
